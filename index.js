@@ -129,3 +129,4 @@ if (message && branchName) {
 }
 
 console.log(message, branchName);
+console.log(branchName);
