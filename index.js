@@ -127,3 +127,5 @@ if (message && branchName) {
 } else {
   console.log("please provide message and branch name");
 }
+
+console.log(message, branchName);
